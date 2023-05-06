@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_background: ^1.2.0
+  flutter_webrtc: ^0.9.27
 
 dev_dependencies:
   flutter_test:
